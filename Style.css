@@ -1,0 +1,37 @@
+body{
+  font-family:Comic Sans MS;
+  background: black;
+  color: pink;
+
+}
+.welcome{
+  color:maroon;
+  font-size: 20px;
+  
+}
+ {
+ margin 0;
+ padding: 0;
+}
+.wrapper {
+  margin: 0auto;
+  width: 1000px;
+}
+
+video {
+ width: 50;
+}
+.top span{
+  
+color:green;
+}
+.info{
+  border:2px solid rred
+  padding: 20px;
+}
+b{color:maroon;}
+img{
+  width: 75%;
+}
+  width 75%;
+}
